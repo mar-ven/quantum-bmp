@@ -46,6 +46,30 @@ Please notice: to compile against ibm_brisbane, you need to set the environment 
 
 ### Credits
 
-If you wish to use this work or our benchmark/source code, please cite the following paper:
+If you wish to use this work or our benchmark/source code, please cite the following paper(s):
 
-_citation to be available soon_
+```
+@INPROCEEDINGS{10818143,
+  author={Venere, Marco and Barenghi, Alessandro and Pelosi, Gerardo},
+  booktitle={2024 IEEE 42nd International Conference on Computer Design (ICCD)}, 
+  title={A Quantum Method to Match Vector Boolean Functions using Simon's Solver}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={542-549},
+  keywords={Computers;Boolean functions;Costs;Qubit;Logic gates;Vectors;Complexity theory;Proposals;Quantum circuit;Standards;Boolean Matching;NPN Equivalence;Electronic Design Automation;Quantum Computing},
+  doi={10.1109/ICCD63220.2024.00089}}
+
+@ARTICLE{11108706,
+  author={Venere, Marco and Barenghi, Alessandro and Pelosi, Gerardo},
+  journal={IEEE Transactions on Quantum Engineering}, 
+  title={A Grover-Meets-Simon Approach to Match Vector Boolean Functions}, 
+  year={2025},
+  volume={6},
+  number={},
+  pages={1-14},
+  keywords={Boolean functions;Vectors;Libraries;Logic gates;Time complexity;Quantum algorithm;Digital circuits;Benchmark testing;Polynomials;Integrated circuit interconnections;Electronic design automation (EDA);negation–permutation–negation equivalence (NPN-equivalence);quantum-aided Boolean matching},
+  doi={10.1109/TQE.2025.3595275}}
+```
+
+
